@@ -1,2 +1,6 @@
-# Optimization-of-Invesment-Portfolio-Using-Whale-Optimization-Algorithm-WOA-Based-on-K-Means
-Implementation of Clustering with K-Means Algorithm Using PySpark for Analysis of Household Electricity Meter Data
+# Optimization of Invesment Portfolio Using Whale Optimization Algorithm WOA Based on K-Means
+This project discusses methods for optimizing investment portfolios by combining the Whale Optimization Algorithm with K-Means clustering using a dataset on political connections, Sharia compliance, and abnormal returns related to M&A announcements in the Indonesian stock market. The dataset includes short-term and long-term abnormal returns from companies involved in mergers and acquisitions (M&A) in the Indonesian market between 2010 and 2016.
+Result:
+- The WOA algorithm successfully found the best solution with a high fitness value, and improved the average fitness value of the population as iterations progressed. This demonstrates the algorithm's success in optimizing investment parameters.
+- A Sharpe Ratio of 3.99% was obtained, indicating that the investment has provided a high return compared to the risk taken. The interpretation of this value shows that the return from the investment is relatively large compared to the level of risk involved.
+- A Treynor Ratio of 7.22% indicates that the investment portfolio is able to generate an excess return of 7.22% higher compared to other portfolios with the same beta. This shows the portfolio's efficiency in generating returns that exceed the risk-free rate of return per unit of risk taken.
